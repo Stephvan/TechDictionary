@@ -3,7 +3,7 @@
 ## 
 
 ### Sendgrid
-A webhook is a way for an application to provide other application with real time information. A webhook delivers data to other applications as it happens, meaning you get data immediately.(What’s a Webhook?](https://sendgrid.com/blog/whats-webhook/))
+A webhook is a way for an application to provide other application with real time information. A webhook delivers data to other applications as it happens, meaning you get data immediately.([What’s a Webhook?](https://sendgrid.com/blog/whats-webhook/))
 
 You could liken webhook to something that responds to an Event.
 
